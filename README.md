@@ -1,6 +1,7 @@
 # Isaiah
 # 💫 About Me:
-I’m an undergraduate student at Siena College interested in <br>front-end and game development. I enjoy building <br>interactive, user-focused applications and exploring creative technologies.<br><br>I’m currently conducting AI research using n8n to introduce drag and drop features<br>to users for AI development<br><br>I  am currently a intern at NYS Office of Information Technology Services in<br>workplace services. Me and my team focus on deploying, patching, updating <br>upgrading windows VM's with citrix tools.
+I’m an undergraduate student at Siena College interested in <br>front-end and game development. I enjoy building <br>interactive, user-focused applications and exploring creative technologies.<br><br>I’m currently conducting AI research 
+using n8n to introduce drag and drop features<br>to users for AI development<br><br>I  am currently a intern at NYS Office of Information Technology Services in<br>workplace services. Me and my team focus on deploying, patching, updating <br>upgrading windows VM's with citrix tools.
 
 
 ## 🌐 Socials:
